@@ -6,7 +6,7 @@ theme = 'hello-friend'
 [languages]
   [languages.en]
     title = "Meow's That?"
-    subtitle = "Joy's site"
+#    subtitle = "Joy's site"
 #    keywords = ""
 #    copyright = ""
 #    menuMore = "Show more"
